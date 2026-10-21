@@ -1,0 +1,6 @@
+{
+  "name": "Dialoogi POS",
+  "description": "Sistem POS modern & kasir cepat dengan cetak struk otomatis printer thermal untuk kafe dan resto",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
